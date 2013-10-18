@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomFontTextView/CustomFontTextView.iml" filepath="$PROJECT_DIR$/CustomFontTextView/CustomFontTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomFontTextViewProject.iml" filepath="$PROJECT_DIR$/CustomFontTextViewProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+    </modules>
+  </component>
+</project>
+
