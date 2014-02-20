@@ -1,6 +1,6 @@
 # Sample
 
-An example project showing how to use the custom class. The main files of interest is:
+An example project showing how to use the custom class. The main file of interest is:
 
 * [activity_main.xml](src/main/res/layout/activity_main.xml)
 
