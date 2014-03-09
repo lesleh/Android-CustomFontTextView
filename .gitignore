@@ -1,4 +1,19 @@
+# Android
+*.dex
+*.apk
+*.ap_
+local.properties
+
+# Idea
+.idea
+*.iml
+*.eml
+*.ipr
+*.iwr
+
+# Gradle
 .gradle
-/local.properties
-/.idea/workspace.xml
+build
+
+# OS X
 .DS_Store
