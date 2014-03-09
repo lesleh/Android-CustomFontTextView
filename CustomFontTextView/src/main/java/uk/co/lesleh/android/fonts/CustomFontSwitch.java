@@ -2,20 +2,20 @@ package uk.co.lesleh.android.fonts;
 
 import android.content.Context;
 import android.util.AttributeSet;
-import android.widget.TextView;
+import android.widget.Switch;
 
-public class CustomFontTextView extends TextView {
-    public CustomFontTextView(Context context) {
+public class CustomFontSwitch extends Switch {
+    public CustomFontSwitch(Context context) {
         super(context);
         init(context, null, 0);
     }
 
-    public CustomFontTextView(Context context, AttributeSet attrs) {
+    public CustomFontSwitch(Context context, AttributeSet attrs) {
         super(context, attrs);
         init(context, attrs, 0);
     }
 
-    public CustomFontTextView(Context context, AttributeSet attrs, int defStyle) {
+    public CustomFontSwitch(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
         init(context, attrs, defStyle);
     }
